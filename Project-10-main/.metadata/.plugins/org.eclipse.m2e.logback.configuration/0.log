@@ -1,0 +1,104 @@
+2026-01-19 11:56:37,480 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-19 11:57:19,460 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunilos:springboottest:0.0.1-SNAPSHOT @ C:\RaysSoft\Project-10-main\Project_10\pom.xml.
+2026-01-19 11:57:22,779 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/main/java
+2026-01-19 11:57:22,780 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 11:57:22,799 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 11:57:22,800 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/test/java
+2026-01-19 11:57:29,732 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2026-01-19 11:57:43,430 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:57:43,440 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:57:43,491 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:57:43,524 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:57:43,525 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 11:58:02,143 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:58:02,144 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:58:02,147 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:58:02,155 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:58:02,156 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 11:59:18,425 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:59:18,426 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:59:18,428 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:59:18,436 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:59:18,437 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 11:59:33,642 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:59:33,644 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:59:33,646 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 11:59:33,655 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 11:59:33,656 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 12:00:01,275 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:00:01,278 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 12:00:01,278 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 12:00:01,282 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:00:01,283 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 12:02:33,499 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunilos:springboottest:0.0.1-SNAPSHOT @ C:\RaysSoft\Project-10-main\Project_10\pom.xml.
+2026-01-19 12:02:35,351 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:02:35,374 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:02:35,391 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:02:35,395 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:02:35,396 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 12:03:05,618 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:03:05,618 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:03:05,621 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:03:05,629 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:03:05,630 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 12:03:15,669 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-01-19 12:03:16,688 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunilos:springboottest:0.0.1-SNAPSHOT @ C:\RaysSoft\Project-10-main\Project_10\pom.xml.
+2026-01-19 12:03:18,049 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/main/java
+2026-01-19 12:03:18,049 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 12:03:18,050 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 12:03:18,068 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/test/java
+2026-01-19 12:03:19,505 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2026-01-19 12:03:25,201 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:03:25,202 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:03:25,226 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:03:25,239 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:03:25,240 [Worker-3: Building Project Project_10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 12:03:30,586 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-01-19 12:03:50,683 [Worker-12: Launching Project_10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\RaysSoft\Project-10-main\Project_10
+2026-01-19 12:03:50,684 [Worker-12: Launching Project_10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean package
+2026-01-19 12:04:23,759 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:04:23,761 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:04:23,765 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 12:04:23,770 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 12:04:23,771 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 13:45:30,062 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-01-19 13:50:05,119 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 13:50:05,132 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 13:50:05,205 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 13:50:05,287 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 13:50:05,287 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:05:28,321 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:05:28,323 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:05:28,327 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:05:28,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:05:28,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:05:41,821 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-01-19 14:05:43,499 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunilos:springboottest:0.0.1-SNAPSHOT @ C:\RaysSoft\Project-10-main\Project_10\pom.xml.
+2026-01-19 14:05:45,739 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/main/java
+2026-01-19 14:05:45,741 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 14:05:45,741 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_10/src/main/resources
+2026-01-19 14:05:45,745 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_10/src/test/java
+2026-01-19 14:05:48,364 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2026-01-19 14:05:54,941 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:05:54,944 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:05:54,973 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:05:54,989 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:05:54,989 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:06:32,258 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:32,278 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 14:06:32,278 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 14:06:32,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:32,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:06:38,271 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:38,271 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 14:06:38,271 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-01-19 14:06:38,281 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:38,281 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:06:50,701 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:50,701 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:06:50,705 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-01-19 14:06:50,717 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-01-19 14:06:50,717 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\RaysSoft\Project-10-main\Project_10\src\test\resources
+2026-01-19 14:07:54,947 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-01-19 14:08:07,907 [Worker-25: Launching Project_10 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\RaysSoft\Project-10-main\Project_10
+2026-01-19 14:08:07,907 [Worker-25: Launching Project_10 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean package
