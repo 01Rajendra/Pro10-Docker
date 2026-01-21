@@ -15,7 +15,7 @@ services:
 
   backend:
     build:
-      context: ./Project_10   # 👈 BACKEND ka Dockerfile jis folder me hai
+      context: .              # 👈 YAHI MAIN FIX HAI
       dockerfile: Dockerfile
     ports:
       - "8084:8080"
