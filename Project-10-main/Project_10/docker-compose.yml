@@ -3,81 +3,47 @@ version: "3.8"
 services:
 
   frontend:
-
     build:
-
       context: ./ORSProject10-UI
-
+      dockerfile: Dockerfile
     ports:
-
       - "4200:80"
-
     depends_on:
-
       - backend
-
     networks:
-
       - ors_network
 
   backend:
-
     build:
-
-      context: 
-
+      context: ./Project_10   # 👈 BACKEND ka Dockerfile jis folder me hai
+      dockerfile: Dockerfile
     ports:
-
       - "8084:8080"
-
     depends_on:
-
       - mysql
-
     environment:
-
-      - SPRING_DATASOURCE_URL=jdbc:mysql://mysql:3306/project10
-
-      - SPRING_DATASOURCE_USERNAME=root
-
-      - SPRING_DATASOURCE_PASSWORD=root
-
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/project10
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
     networks:
-
       - ors_network
 
   mysql:
-
     image: mysql:8.0
-
-    container_name: Docker
-
+    container_name: mysql_p10
     environment:
-
       MYSQL_ROOT_PASSWORD: root
-
       MYSQL_DATABASE: project10
-
     ports:
-
       - "3308:3306"
-
     volumes:
-
       - mysql_data:/var/lib/mysql
-
     networks:
-
       - ors_network
 
 volumes:
-
   mysql_data:
 
 networks:
-
   ors_network:
-
     driver: bridge
-
- 
